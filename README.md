@@ -5,16 +5,6 @@ It is the best way to change or transform the raw set of data into an easily und
 
 Tableau is basically a data visualization tool which provides pictorial and graphical representations of data.
 
-## What is Tableau used for?  
-
-Usage of Tableau software are listed below:
-
-- Tableau software is used to translate queries into visualization.  
-- It is also used for managing metadata.  
-- Tableau software imports data of all sizes and ranges.  
-- For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.    
-
-
 # UT Mart Sales Analytics
 
 ###  Overview 
@@ -34,7 +24,7 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 
 ##  UT Mart Sales Analytics Dashboard
 
-<img src="" alt="ScreenShot"/>
+<img src="https://github.com/ReetuRaj7/UT-Mart-Sales/blob/main/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="ScreenShot"/>
 
 
 
